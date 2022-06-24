@@ -1,5 +1,5 @@
 # queue
-Create a project that practices queues and stacks. Look at the projects in Fig 10.11, the Chipotles Queue project, and Figures 10.13 a, b, and c, the Driveway Parking program, as references.  
+Create a project that practices queues and stacks. Look at the projects in Fig 10.11, the Chipotles Queue project, and Figures 10.13 a, b, and c, the Driveway Parking program, as references. from Introduction to Programming with Java A Problem Solving Approach, Second Edition by John Dean and Raymond Dean 
 
 Instructions for the code to create and work with a queue:         
 
